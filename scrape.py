@@ -1,5 +1,5 @@
 __author__ = 'Sid'
-key='DFVpTYLt67bVxlSdd8KfQ'
+key="" #get your dev key from goodreads api
 import urllib2
 from xml.dom import minidom
 def parser(url):
